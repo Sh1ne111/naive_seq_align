@@ -1,2 +1,3 @@
 # naive_seq_align
-A simple sequence alignment
+ This program is to implement a simple sequence alignment.
+
